@@ -8,8 +8,6 @@ def clear_frame():
 
 
 
-
-
 def screen_one(): #Home Screen
     clear_frame()
     label_1 = Label(window, text="Select the Type of\nAddress", font=("Fira Sans", 18))
